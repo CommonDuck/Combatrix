@@ -10,6 +10,7 @@ Library: C:\Users\VRTrain06\combatrix\Temp\BurstOutput\tempburstlibs\arm64-v8a\l
 --target-framework=NetFramework
 --float-mode=Fast
 --assembly-defines=Assembly-CSharp;
+--assembly-defines=Cinemachine;
 --assembly-defines=Mono.Security;
 --assembly-defines=mscorlib;
 --assembly-defines=System.Configuration;
@@ -25,6 +26,7 @@ Library: C:\Users\VRTrain06\combatrix\Temp\BurstOutput\tempburstlibs\arm64-v8a\l
 --assembly-defines=Unity.RenderPipelines.Core.Runtime;
 --assembly-defines=Unity.RenderPipelines.Universal.Runtime;
 --assembly-defines=Unity.TextMeshPro;
+--assembly-defines=Unity.Timeline;
 --assembly-defines=Unity.XR.CoreUtils;
 --assembly-defines=Unity.XR.Interaction.Toolkit;
 --assembly-defines=Unity.XR.Interaction.Toolkit.Samples.StarterAssets;
@@ -55,6 +57,7 @@ Library: C:\Users\VRTrain06\combatrix\Temp\BurstOutput\tempburstlibs\arm64-v8a\l
 --float-precision=Standard
 --target-framework=NetFramework
 --assembly-defines=Assembly-CSharp;
+--assembly-defines=Cinemachine;
 --assembly-defines=Mono.Security;
 --assembly-defines=mscorlib;
 --assembly-defines=System.Configuration;
@@ -70,6 +73,7 @@ Library: C:\Users\VRTrain06\combatrix\Temp\BurstOutput\tempburstlibs\arm64-v8a\l
 --assembly-defines=Unity.RenderPipelines.Core.Runtime;
 --assembly-defines=Unity.RenderPipelines.Universal.Runtime;
 --assembly-defines=Unity.TextMeshPro;
+--assembly-defines=Unity.Timeline;
 --assembly-defines=Unity.XR.CoreUtils;
 --assembly-defines=Unity.XR.Interaction.Toolkit;
 --assembly-defines=Unity.XR.Interaction.Toolkit.Samples.StarterAssets;
